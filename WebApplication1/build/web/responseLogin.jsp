@@ -21,7 +21,7 @@
     <body>
         <c:if test = "${user.rowCount == 0}">
             Wrong username or password, please try again.
-            <a href="login.jsp">Back to login screen</a>
+            <a href="faces/login.xhtml">Back to login screen</a>
         </c:if>
         <c:if test = "${user.rowCount > 0}">
             <c:forEach var="row" items="${user.rowsByIndex}">

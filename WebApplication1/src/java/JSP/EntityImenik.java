@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package JSP;
+/*package JSP;
 
 import javax.inject.Named;
 import javax.enterprise.context.SessionScoped;
@@ -15,11 +15,6 @@ import javax.persistence.EntityManager;
 import javax.persistence.NamedQuery;
 import javax.persistence.PersistenceContext;
 import JSP.FindUser;
-
-/**
- *
- * @author Ziga
- */
 
 @Named(value = "EntityImenik")
 @SessionScoped
@@ -47,3 +42,4 @@ public class EntityImenik implements Serializable {
         return finduser.populateList(this.name);
     }
 }
+*/

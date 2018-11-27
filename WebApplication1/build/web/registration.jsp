@@ -32,7 +32,7 @@
                 </div>
             </form>
             <div>
-                <button type="button" onclick="location.href = 'index.jsp';"> Back </button>
+                <button type="button" onclick="location.href = 'faces/index.xhtml';"> Back </button>
             </div>
         </div>
     </body>

@@ -1,4 +1,4 @@
-package JSP;
+/*package JSP;
 
 
 import java.io.Serializable;
@@ -27,4 +27,5 @@ public class QueryUser implements Serializable {
     public QueryUser() {
         
     }
-}
+}*/
+

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package JSP;
+/*package JSP;
 
 import java.io.*;
 import java.util.List;
@@ -34,3 +34,4 @@ public class FindUser implements Serializable{
         }
     }
 }
+*/
